@@ -4,7 +4,7 @@
    - MySQL RDBMS
 
 ## Get this repository
-`git clone https://github.com/sgtPepper109/chat.GIT`
+`git clone https://github.com/sgtPepper109/chat.git`
 
 ## Run:
 ###### Place the repository in `htdocs` folder in your Apache Directory
